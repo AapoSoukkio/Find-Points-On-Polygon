@@ -7,6 +7,7 @@ Made by: Aapo Soukkio
 ## About the project
 
 This program compares a set of points to a polygon and checks whether the points are inside, outside or on the edge of the polygon.
+The program will create two text files "polygoni.txt" and "pisteet.txt" with the polygon and points coordinates and will create a third file "selvitys.txt" where the results of the comparison will be written.
 
 ### How to run the project
 
