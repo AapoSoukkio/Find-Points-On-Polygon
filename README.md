@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Java 8 or later
 - A text editor or an IDE
 
-To run both the Web API and the Blazor client app:
+To run the app:
 
 1. Clone the repository to your local machine.
 2. Open the project in your text editor or IDE
